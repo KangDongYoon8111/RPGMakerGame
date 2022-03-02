@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class IncodingTest2 : MonoBehaviour
 {
-    // гя╠ш юндз╣Н ев╫╨ф╝1
-    // ╨Яаж╬С╫╨ф╘╣П©ю гя╠ш юндз╣Ы ев╫╨ф╝2
+    // М∙°Й╦─ Л²╦Л╫■К⌠╠ М┘▄Л┼╓М┼╦1
+    // К╧└Лё╪Л√╪Л┼╓М┼°К■■Л≤╓ М∙°Й╦─ Л²╦Л╫■К■╘ М┘▄Л┼╓М┼╦2
     // Korean Incoding Test3
     void Start()
     {
